@@ -1,1 +1,1 @@
-# telegram_calories_bot
+# Telegram calories bot
